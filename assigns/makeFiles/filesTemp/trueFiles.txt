@@ -1,0 +1,10 @@
+data/dataset001/simali.output.proj.maf
+data/dataset002/simali.output.proj.maf
+data/dataset003/simali.output.proj.maf
+data/dataset004/simali.output.proj.maf
+data/dataset005/simali.output.proj.maf
+data/dataset006/simali.output.proj.maf
+data/dataset007/simali.output.proj.maf
+data/dataset008/simali.output.proj.maf
+data/dataset009/simali.output.proj.maf
+data/dataset010/simali.output.proj.maf

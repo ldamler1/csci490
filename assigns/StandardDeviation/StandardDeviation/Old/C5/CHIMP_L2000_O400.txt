@@ -1,0 +1,5 @@
+Sensitivity Average: 99.7407
+Specificity Average: 99.9491
+Sensitivity Standard Deviation: 0.427533
+Specificity Standard Deviation: 0.11063
+

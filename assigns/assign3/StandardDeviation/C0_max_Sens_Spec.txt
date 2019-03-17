@@ -1,0 +1,104 @@
+BABOON
+Sensitivity
+HUMAN.BABOON.K2000.O500.T0.W20.txt
+Highest: 95.4144,97.0021
+HUMAN.BABOON.K3000.O300.T1.W8.txt
+Lowest: 95.2283,92.4275
+-----------------------------
+Specificity
+HUMAN.BABOON.K5000.O500.T0.W20.txt
+Highest: 95.3986,97.0031
+HUMAN.BABOON.K3000.O300.T1.W8.txt
+Lowest: 95.2283,92.4275
+
+CAT
+Sensitivity
+HUMAN.CAT.K2000.O500.T1.W8.txt
+Highest: 60.175,80.0018
+HUMAN.CAT.K5000.O500.T0.W20.txt
+Lowest: 45.7568,82.2616
+-----------------------------
+Specificity
+HUMAN.CAT.K5000.O500.T0.W20.txt
+Highest: 45.7568,82.2616
+HUMAN.CAT.K3000.O300.T1.W8.txt
+Lowest: 58.1803,65.5156
+
+CHIMP
+Sensitivity
+HUMAN.CHIMP.K5000.O500.T0.W20.txt
+Highest: 99.545,99.4408
+HUMAN.CHIMP.K3000.O300.T1.W8.txt
+Lowest: 99.4227,98.0315
+-----------------------------
+Specificity
+HUMAN.CHIMP.K5000.O500.T0.W20.txt
+Highest: 99.545,99.4408
+HUMAN.CHIMP.K3000.O300.T1.W8.txt
+Lowest: 99.4227,98.0315
+
+COW
+Sensitivity
+HUMAN.COW.K2000.O300.T1.W8.txt
+Highest: 57.1493,60.1669
+HUMAN.COW.K5000.O500.T0.W20.txt
+Lowest: 32.6093,78.555
+-----------------------------
+Specificity
+HUMAN.COW.K5000.O500.T2.W8.txt
+Highest: 44.3451,78.5938
+HUMAN.COW.K2000.O300.T1.W8.txt
+Lowest: 57.1493,60.1669
+
+DOG
+Sensitivity
+HUMAN.DOG.K2000.O500.T1.W8.txt
+Highest: 59.9849,77.4731
+HUMAN.DOG.K5000.O500.T0.W20.txt
+Lowest: 30.1017,79.267
+-----------------------------
+Specificity
+HUMAN.DOG.K5000.O500.T0.W20.txt
+Highest: 30.1017,79.267
+HUMAN.DOG.K2000.O300.T1.W8.txt
+Lowest: 59.5789,61.4376
+
+MOUSE
+Sensitivity
+HUMAN.MOUSE.K2000.O300.T1.W8.txt
+Highest: 29.0201,44.5484
+HUMAN.MOUSE.K5000.O500.T0.W20.txt
+Lowest: 0.887999,14.3507
+-----------------------------
+Specificity
+HUMAN.MOUSE.K2000.O500.T0.W20.txt
+Highest: 9.29466,69.8815
+HUMAN.MOUSE.K5000.O300.T0.W20.txt
+Lowest: 2.59389,8.45176
+
+PIG
+Sensitivity
+HUMAN.PIG.K2000.O500.T1.W8.txt
+Highest: 62.1155,77.6948
+HUMAN.PIG.K5000.O500.T0.W20.txt
+Lowest: 46.1177,80.5044
+-----------------------------
+Specificity
+HUMAN.PIG.K5000.O500.T0.W20.txt
+Highest: 46.1177,80.5044
+HUMAN.PIG.K2000.O300.T1.W8.txt
+Lowest: 61.6508,64.8307
+
+RAT
+Sensitivity
+HUMAN.RAT.K2000.O300.T1.W8.txt
+Highest: 26.8397,52.1597
+HUMAN.RAT.K5000.O500.T0.W20.txt
+Lowest: 0,0
+-----------------------------
+Specificity
+HUMAN.RAT.K2000.O500.T0.W12.txt
+Highest: 17.5316,70.385
+HUMAN.RAT.K5000.O500.T0.W20.txt
+Lowest: 0,0
+

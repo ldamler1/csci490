@@ -1,0 +1,268 @@
+/home/turing/mhou/csci652fall2018/data/human.chr22.chimp.maf
+Thinking...
+
+Statistics
+----------
+Number of Sequence Pairs: 27059
+
+Substitution Rate: 0.013562
+Ti/Tv: 2.17468
+Gap Rate: 0.00125873
+
+				SPECIES 2
+	 	 |A			C		G		T
+	---------------------------
+		A|3433807	7472	32003	4523	
+SPECIES C|7222		3443935	9920	32987	
+   	1   G|32981		10012	3457527	6961	
+		T|4622		31679	7528	3431492	
+
+Gap Length: 1	Gap Count: 8228	Gap Frequency: 46.7792%
+Gap Length: 2	Gap Count: 2600	Gap Frequency: 14.782%
+Gap Length: 3	Gap Count: 1489	Gap Frequency: 8.46552%
+Gap Length: 4	Gap Count: 1278	Gap Frequency: 7.2659%
+Gap Length: 5	Gap Count: 521	Gap Frequency: 2.96208%
+Gap Length: 6	Gap Count: 419	Gap Frequency: 2.38217%
+Gap Length: 7	Gap Count: 314	Gap Frequency: 1.78521%
+Gap Length: 8	Gap Count: 292	Gap Frequency: 1.66013%
+Gap Length: 9	Gap Count: 218	Gap Frequency: 1.23941%
+Gap Length: 10	Gap Count: 184	Gap Frequency: 1.04611%
+Gap Length: 11	Gap Count: 155	Gap Frequency: 0.881233%
+Gap Length: 12	Gap Count: 134	Gap Frequency: 0.76184%
+Gap Length: 13	Gap Count: 124	Gap Frequency: 0.704986%
+Gap Length: 14	Gap Count: 140	Gap Frequency: 0.795952%
+Gap Length: 15	Gap Count: 100	Gap Frequency: 0.568537%
+Gap Length: 16	Gap Count: 127	Gap Frequency: 0.722042%
+Gap Length: 17	Gap Count: 93	Gap Frequency: 0.52874%
+Gap Length: 18	Gap Count: 108	Gap Frequency: 0.61402%
+Gap Length: 19	Gap Count: 85	Gap Frequency: 0.483257%
+Gap Length: 20	Gap Count: 88	Gap Frequency: 0.500313%
+Gap Length: 21	Gap Count: 74	Gap Frequency: 0.420717%
+Gap Length: 22	Gap Count: 59	Gap Frequency: 0.335437%
+Gap Length: 23	Gap Count: 49	Gap Frequency: 0.278583%
+Gap Length: 24	Gap Count: 57	Gap Frequency: 0.324066%
+Gap Length: 25	Gap Count: 50	Gap Frequency: 0.284269%
+Gap Length: 26	Gap Count: 31	Gap Frequency: 0.176247%
+Gap Length: 27	Gap Count: 37	Gap Frequency: 0.210359%
+Gap Length: 28	Gap Count: 23	Gap Frequency: 0.130764%
+Gap Length: 29	Gap Count: 27	Gap Frequency: 0.153505%
+Gap Length: 30	Gap Count: 38	Gap Frequency: 0.216044%
+Gap Length: 31	Gap Count: 29	Gap Frequency: 0.164876%
+Gap Length: 32	Gap Count: 26	Gap Frequency: 0.14782%
+Gap Length: 33	Gap Count: 20	Gap Frequency: 0.113707%
+Gap Length: 34	Gap Count: 12	Gap Frequency: 0.0682245%
+Gap Length: 35	Gap Count: 13	Gap Frequency: 0.0739098%
+Gap Length: 36	Gap Count: 17	Gap Frequency: 0.0966513%
+Gap Length: 37	Gap Count: 11	Gap Frequency: 0.0625391%
+Gap Length: 38	Gap Count: 11	Gap Frequency: 0.0625391%
+Gap Length: 39	Gap Count: 15	Gap Frequency: 0.0852806%
+Gap Length: 40	Gap Count: 7	Gap Frequency: 0.0397976%
+Gap Length: 41	Gap Count: 10	Gap Frequency: 0.0568537%
+Gap Length: 42	Gap Count: 11	Gap Frequency: 0.0625391%
+Gap Length: 43	Gap Count: 12	Gap Frequency: 0.0682245%
+Gap Length: 44	Gap Count: 16	Gap Frequency: 0.0909659%
+Gap Length: 45	Gap Count: 10	Gap Frequency: 0.0568537%
+Gap Length: 46	Gap Count: 16	Gap Frequency: 0.0909659%
+Gap Length: 47	Gap Count: 9	Gap Frequency: 0.0511683%
+Gap Length: 48	Gap Count: 4	Gap Frequency: 0.0227415%
+Gap Length: 49	Gap Count: 6	Gap Frequency: 0.0341122%
+Gap Length: 50	Gap Count: 7	Gap Frequency: 0.0397976%
+Gap Length: 51	Gap Count: 11	Gap Frequency: 0.0625391%
+Gap Length: 52	Gap Count: 6	Gap Frequency: 0.0341122%
+Gap Length: 53	Gap Count: 4	Gap Frequency: 0.0227415%
+Gap Length: 54	Gap Count: 8	Gap Frequency: 0.045483%
+Gap Length: 55	Gap Count: 8	Gap Frequency: 0.045483%
+Gap Length: 56	Gap Count: 7	Gap Frequency: 0.0397976%
+Gap Length: 57	Gap Count: 5	Gap Frequency: 0.0284269%
+Gap Length: 58	Gap Count: 7	Gap Frequency: 0.0397976%
+Gap Length: 59	Gap Count: 3	Gap Frequency: 0.0170561%
+Gap Length: 60	Gap Count: 7	Gap Frequency: 0.0397976%
+Gap Length: 61	Gap Count: 5	Gap Frequency: 0.0284269%
+Gap Length: 62	Gap Count: 5	Gap Frequency: 0.0284269%
+Gap Length: 63	Gap Count: 3	Gap Frequency: 0.0170561%
+Gap Length: 64	Gap Count: 6	Gap Frequency: 0.0341122%
+Gap Length: 65	Gap Count: 4	Gap Frequency: 0.0227415%
+Gap Length: 66	Gap Count: 5	Gap Frequency: 0.0284269%
+Gap Length: 67	Gap Count: 4	Gap Frequency: 0.0227415%
+Gap Length: 68	Gap Count: 5	Gap Frequency: 0.0284269%
+Gap Length: 69	Gap Count: 4	Gap Frequency: 0.0227415%
+Gap Length: 70	Gap Count: 2	Gap Frequency: 0.0113707%
+Gap Length: 71	Gap Count: 5	Gap Frequency: 0.0284269%
+Gap Length: 72	Gap Count: 3	Gap Frequency: 0.0170561%
+Gap Length: 73	Gap Count: 4	Gap Frequency: 0.0227415%
+Gap Length: 74	Gap Count: 7	Gap Frequency: 0.0397976%
+Gap Length: 75	Gap Count: 1	Gap Frequency: 0.00568537%
+Gap Length: 76	Gap Count: 3	Gap Frequency: 0.0170561%
+Gap Length: 77	Gap Count: 2	Gap Frequency: 0.0113707%
+Gap Length: 78	Gap Count: 4	Gap Frequency: 0.0227415%
+Gap Length: 79	Gap Count: 1	Gap Frequency: 0.00568537%
+Gap Length: 80	Gap Count: 7	Gap Frequency: 0.0397976%
+Gap Length: 81	Gap Count: 2	Gap Frequency: 0.0113707%
+Gap Length: 82	Gap Count: 1	Gap Frequency: 0.00568537%
+Gap Length: 83	Gap Count: 1	Gap Frequency: 0.00568537%
+Gap Length: 84	Gap Count: 1	Gap Frequency: 0.00568537%
+Gap Length: 85	Gap Count: 1	Gap Frequency: 0.00568537%
+Gap Length: 86	Gap Count: 4	Gap Frequency: 0.0227415%
+Gap Length: 87	Gap Count: 1	Gap Frequency: 0.00568537%
+Gap Length: 88	Gap Count: 1	Gap Frequency: 0.00568537%
+Gap Length: 89	Gap Count: 5	Gap Frequency: 0.0284269%
+Gap Length: 90	Gap Count: 4	Gap Frequency: 0.0227415%
+Gap Length: 92	Gap Count: 5	Gap Frequency: 0.0284269%
+Gap Length: 93	Gap Count: 2	Gap Frequency: 0.0113707%
+Gap Length: 94	Gap Count: 1	Gap Frequency: 0.00568537%
+Gap Length: 95	Gap Count: 2	Gap Frequency: 0.0113707%
+Gap Length: 96	Gap Count: 1	Gap Frequency: 0.00568537%
+Gap Length: 97	Gap Count: 2	Gap Frequency: 0.0113707%
+Gap Length: 98	Gap Count: 1	Gap Frequency: 0.00568537%
+Gap Length: 99	Gap Count: 1	Gap Frequency: 0.00568537%
+Gap Length: 100	Gap Count: 3	Gap Frequency: 0.0170561%
+
+/home/turing/mhou/csci652fall2018/data/human.chr22.mouse.maf
+Thinking...
+
+Statistics
+----------
+Number of Sequence Pairs: 21319
+
+Substitution Rate: 0.331636
+Ti/Tv: 1.41569
+Gap Rate: 0.0389419
+
+				SPECIES 2
+	 	 |A			C		G		T
+	---------------------------
+		A|1091232	118519	304301	106300	
+SPECIES C|118694	1125759	111566	342378	
+   1    G|343010	112616	1134315	119675	
+		T|105952	301722	118890	1089768	
+
+Gap Length: 1	Gap Count: 82442	Gap Frequency: 30.62%
+Gap Length: 2	Gap Count: 40019	Gap Frequency: 14.8636%
+Gap Length: 3	Gap Count: 26836	Gap Frequency: 9.96724%
+Gap Length: 4	Gap Count: 20479	Gap Frequency: 7.60617%
+Gap Length: 5	Gap Count: 13972	Gap Frequency: 5.18938%
+Gap Length: 6	Gap Count: 11196	Gap Frequency: 4.15834%
+Gap Length: 7	Gap Count: 9055		Gap Frequency: 3.36315%
+Gap Length: 8	Gap Count: 7693		Gap Frequency: 2.85728%
+Gap Length: 9	Gap Count: 6522		Gap Frequency: 2.42236%
+Gap Length: 10	Gap Count: 5587		Gap Frequency: 2.07508%
+Gap Length: 11	Gap Count: 5142		Gap Frequency: 1.90981%
+Gap Length: 12	Gap Count: 4423		Gap Frequency: 1.64276%
+Gap Length: 13	Gap Count: 3827		Gap Frequency: 1.4214%
+Gap Length: 14	Gap Count: 3308		Gap Frequency: 1.22863%
+Gap Length: 15	Gap Count: 2963		Gap Frequency: 1.1005%
+Gap Length: 16	Gap Count: 2622		Gap Frequency: 0.973845%
+Gap Length: 17	Gap Count: 2267		Gap Frequency: 0.841993%
+Gap Length: 18	Gap Count: 2059		Gap Frequency: 0.76474%
+Gap Length: 19	Gap Count: 1822		Gap Frequency: 0.676715%
+Gap Length: 20	Gap Count: 1672		Gap Frequency: 0.621003%
+Gap Length: 21	Gap Count: 1486		Gap Frequency: 0.55192%
+Gap Length: 22	Gap Count: 1302		Gap Frequency: 0.48358%
+Gap Length: 23	Gap Count: 1224		Gap Frequency: 0.45461%
+Gap Length: 24	Gap Count: 1055		Gap Frequency: 0.391841%
+Gap Length: 25	Gap Count: 946		Gap Frequency: 0.351357%
+Gap Length: 26	Gap Count: 851		Gap Frequency: 0.316073%
+Gap Length: 27	Gap Count: 820		Gap Frequency: 0.304559%
+Gap Length: 28	Gap Count: 693		Gap Frequency: 0.257389%
+Gap Length: 29	Gap Count: 658		Gap Frequency: 0.24439%
+Gap Length: 30	Gap Count: 562		Gap Frequency: 0.208734%
+Gap Length: 31	Gap Count: 504		Gap Frequency: 0.187192%
+Gap Length: 32	Gap Count: 422		Gap Frequency: 0.156736%
+Gap Length: 33	Gap Count: 352		Gap Frequency: 0.130737%
+Gap Length: 34	Gap Count: 317		Gap Frequency: 0.117738%
+Gap Length: 35	Gap Count: 312		Gap Frequency: 0.115881%
+Gap Length: 36	Gap Count: 318		Gap Frequency: 0.118109%
+Gap Length: 37	Gap Count: 262		Gap Frequency: 0.0973102%
+Gap Length: 38	Gap Count: 240		Gap Frequency: 0.0891391%
+Gap Length: 39	Gap Count: 192		Gap Frequency: 0.0713113%
+Gap Length: 40	Gap Count: 205		Gap Frequency: 0.0761397%
+Gap Length: 41	Gap Count: 187		Gap Frequency: 0.0694542%
+Gap Length: 42	Gap Count: 179		Gap Frequency: 0.0664829%
+Gap Length: 43	Gap Count: 160		Gap Frequency: 0.0594261%
+Gap Length: 44	Gap Count: 138		Gap Frequency: 0.051255%
+Gap Length: 45	Gap Count: 149		Gap Frequency: 0.0553405%
+Gap Length: 46	Gap Count: 129		Gap Frequency: 0.0479123%
+Gap Length: 47	Gap Count: 125		Gap Frequency: 0.0464266%
+Gap Length: 48	Gap Count: 108		Gap Frequency: 0.0401126%
+Gap Length: 49	Gap Count: 93		Gap Frequency: 0.0345414%
+Gap Length: 50	Gap Count: 88		Gap Frequency: 0.0326844%
+Gap Length: 51	Gap Count: 69		Gap Frequency: 0.0256275%
+Gap Length: 52	Gap Count: 95		Gap Frequency: 0.0352842%
+Gap Length: 53	Gap Count: 67		Gap Frequency: 0.0248847%
+Gap Length: 54	Gap Count: 63		Gap Frequency: 0.023399%
+Gap Length: 55	Gap Count: 68		Gap Frequency: 0.0252561%
+Gap Length: 56	Gap Count: 62		Gap Frequency: 0.0230276%
+Gap Length: 57	Gap Count: 56		Gap Frequency: 0.0207991%
+Gap Length: 58	Gap Count: 49		Gap Frequency: 0.0181992%
+Gap Length: 59	Gap Count: 32		Gap Frequency: 0.0118852%
+Gap Length: 60	Gap Count: 34		Gap Frequency: 0.012628%
+Gap Length: 61	Gap Count: 38		Gap Frequency: 0.0141137%
+Gap Length: 62	Gap Count: 31		Gap Frequency: 0.0115138%
+Gap Length: 63	Gap Count: 37		Gap Frequency: 0.0137423%
+Gap Length: 64	Gap Count: 34		Gap Frequency: 0.012628%
+Gap Length: 65	Gap Count: 24		Gap Frequency: 0.00891391%
+Gap Length: 66	Gap Count: 45		Gap Frequency: 0.0167136%
+Gap Length: 67	Gap Count: 21		Gap Frequency: 0.00779967%
+Gap Length: 68	Gap Count: 25		Gap Frequency: 0.00928533%
+Gap Length: 69	Gap Count: 24		Gap Frequency: 0.00891391%
+Gap Length: 70	Gap Count: 30		Gap Frequency: 0.0111424%
+Gap Length: 71	Gap Count: 18		Gap Frequency: 0.00668544%
+Gap Length: 72	Gap Count: 27		Gap Frequency: 0.0100282%
+Gap Length: 73	Gap Count: 17		Gap Frequency: 0.00631402%
+Gap Length: 74	Gap Count: 20		Gap Frequency: 0.00742826%
+Gap Length: 75	Gap Count: 17		Gap Frequency: 0.00631402%
+Gap Length: 76	Gap Count: 12		Gap Frequency: 0.00445696%
+Gap Length: 77	Gap Count: 18		Gap Frequency: 0.00668544%
+Gap Length: 78	Gap Count: 13		Gap Frequency: 0.00482837%
+Gap Length: 79	Gap Count: 12		Gap Frequency: 0.00445696%
+Gap Length: 80	Gap Count: 19		Gap Frequency: 0.00705685%
+Gap Length: 81	Gap Count: 7		Gap Frequency: 0.00259989%
+Gap Length: 82	Gap Count: 5		Gap Frequency: 0.00185707%
+Gap Length: 83	Gap Count: 11		Gap Frequency: 0.00408554%
+Gap Length: 84	Gap Count: 9		Gap Frequency: 0.00334272%
+Gap Length: 85	Gap Count: 12		Gap Frequency: 0.00445696%
+Gap Length: 86	Gap Count: 6		Gap Frequency: 0.00222848%
+Gap Length: 87	Gap Count: 5		Gap Frequency: 0.00185707%
+Gap Length: 88	Gap Count: 7		Gap Frequency: 0.00259989%
+Gap Length: 89	Gap Count: 8		Gap Frequency: 0.0029713%
+Gap Length: 90	Gap Count: 6		Gap Frequency: 0.00222848%
+Gap Length: 91	Gap Count: 5		Gap Frequency: 0.00185707%
+Gap Length: 92	Gap Count: 11		Gap Frequency: 0.00408554%
+Gap Length: 93	Gap Count: 13		Gap Frequency: 0.00482837%
+Gap Length: 94	Gap Count: 4		Gap Frequency: 0.00148565%
+Gap Length: 95	Gap Count: 2		Gap Frequency: 0.000742826%
+Gap Length: 96	Gap Count: 6		Gap Frequency: 0.00222848%
+Gap Length: 97	Gap Count: 3		Gap Frequency: 0.00111424%
+Gap Length: 98	Gap Count: 4		Gap Frequency: 0.00148565%
+Gap Length: 99	Gap Count: 3		Gap Frequency: 0.00111424%
+Gap Length: 100	Gap Count: 5		Gap Frequency: 0.00185707%
+Gap Length: 101	Gap Count: 4		Gap Frequency: 0.00148565%
+Gap Length: 102	Gap Count: 3		Gap Frequency: 0.00111424%
+Gap Length: 103	Gap Count: 5		Gap Frequency: 0.00185707%
+Gap Length: 104	Gap Count: 6		Gap Frequency: 0.00222848%
+Gap Length: 105	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 106	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 107	Gap Count: 2		Gap Frequency: 0.000742826%
+Gap Length: 110	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 111	Gap Count: 2		Gap Frequency: 0.000742826%
+Gap Length: 113	Gap Count: 2		Gap Frequency: 0.000742826%
+Gap Length: 114	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 115	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 116	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 118	Gap Count: 2		Gap Frequency: 0.000742826%
+Gap Length: 119	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 120	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 121	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 123	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 124	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 130	Gap Count: 3		Gap Frequency: 0.00111424%
+Gap Length: 135	Gap Count: 2		Gap Frequency: 0.000742826%
+Gap Length: 136	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 137	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 138	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 140	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 141	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 168	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 178	Gap Count: 1		Gap Frequency: 0.000371413%
+Gap Length: 227	Gap Count: 1		Gap Frequency: 0.000371413%
+

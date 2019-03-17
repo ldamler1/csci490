@@ -1,0 +1,11 @@
+##maf version=1 scoring=maf_project.v12
+# maf_project.v12 /dev/stdin HUMAN
+#
+# "blastz.v7 HUMAN MOUSE K=3000 O=300 T=0 W=12
+#    A    C    G    T
+#   91 -114  -31 -123
+# -114  100 -125  -31
+#  -31 -125  100 -114
+# -123  -31 -114   91
+# O = 300, E = 30, K = 3000, L = 3000, M = 0"
+##eof maf
